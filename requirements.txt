@@ -1,0 +1,11 @@
+os
+python-opencv2
+python-contrib-opencv2
+json
+math
+torch
+numpy
+tqdm
+PIL
+facenet_pytorch
+pytorch
